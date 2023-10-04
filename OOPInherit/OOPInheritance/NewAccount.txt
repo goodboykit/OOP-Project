@@ -1,0 +1,8 @@
+2023100000,123456,Kit Nicholas,T,Santiago,12/24/2003,Male,jndjfhiw1,Edjdenjfh,jwdjdw,09155933015,700.0
+2023100001
+2023100002,123456,Kit Nicholas,T.,Santiago,12/14/2003,Male,364 San Diego,Edwin Santiago,Remedios Santiago,09155933015,500.0
+2023100003
+2023100004,123456,kew,ewhu,jkew,12/32/02,jnkwe,dew,,dw,wde,500.0
+2023100005
+2023100006,123456,wde,w,w,12/14/2003,male,23453nje,wj2,fejnw,09155933015,500.0
+2023100007

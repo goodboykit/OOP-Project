@@ -1,0 +1,4 @@
+2023100000,123456,Kit Nicholas,T,Santiago,12/24/2003,Male,364 San Diego Street Sampaloc Manila,Edwin Santiago,Remedios Santiago,09155933015,600.0
+2023100001
+2023100002,234567,Kit Nicholas,T,Santiago,12/24/2003,Female,364 San Diego Street Sampaloc Manila,Edwin Santiago,Remedios Santiago,09155933015,500.0
+2023100003
